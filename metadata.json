@@ -1,0 +1,6 @@
+{
+  "name": "LifeLink: Blood Availability & Emergency Donor Finder",
+  "description": "Find available blood units and emergency donors quickly with real-time availability, emergency broadcasts, blood compatibility matching, donor registry, and blood bank stock management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
